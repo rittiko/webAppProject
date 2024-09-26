@@ -1,0 +1,58 @@
+{
+    "line": {
+      "type": "text",
+      "quickReply": {
+        "items": [
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "label": "สิทธิ์ในการยืม",
+              "text": "สิทธิ์ในการยืม"
+            }
+          },
+          {
+            "action": {
+              "text": "ยืม Devices",
+              "type": "message",
+              "label": " ยืม Devices"
+            },
+            "type": "action"
+          },
+          {
+            "action": {
+              "type": "message",
+              "text": "ยืมiPad",
+              "label": "ยืม iPad และอื่นๆ"
+            },
+            "type": "action"
+          },
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "text": "การต่ออายุยืมหนังสือ",
+              "label": "การต่ออายุยืมหนังสือ"
+            }
+          },
+          {
+            "action": {
+              "type": "message",
+              "label": "CDS",
+              "text": "CDS"
+            },
+            "type": "action"
+          },
+          {
+            "type": "action",
+            "action": {
+              "text": "จอง",
+              "label": "จองสถานที่",
+              "type": "message"
+            }
+          }
+        ]
+      },
+      "text": "ติดต่อเรื่องไรครับ"
+    }
+  }

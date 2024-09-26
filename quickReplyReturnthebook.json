@@ -1,0 +1,58 @@
+{
+    "line": {
+      "type": "text",
+      "quickReply": {
+        "items": [
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "label": "การคืนหนังสือ",
+              "text": "การคืนหนังสือ"
+            }
+          },
+          {
+            "action": {
+              "text": "การส่งคืนทางไปรษณีย์",
+              "type": "message",
+              "label": "การส่งคืนทางไปรษณีย์"
+            },
+            "type": "action"
+          },
+          {
+            "action": {
+              "type": "message",
+              "text": "ค่าปรับ",
+              "label": "ค่าปรับ"
+            },
+            "type": "action"
+          },
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "text": "หนังสือหาย",
+              "label": "หนังสือหาย"
+            }
+          },
+          {
+            "action": {
+              "type": "message",
+              "label": "การชำระค่าปรับ",
+              "text": "การชำระค่าปรับ"
+            },
+            "type": "action"
+          },
+          {
+            "type": "action",
+            "action": {
+              "text": "การลดหย่อนค่าปรับ",
+              "label": "การลดหย่อนค่าปรับ",
+              "type": "message"
+            }
+          }
+        ]
+      },
+      "text": "ติดต่อเรื่องไรครับ"
+    }
+  }
